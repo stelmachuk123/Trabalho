@@ -1,0 +1,64 @@
+body {
+margin: 0;
+font-family: Arial;
+background-color: #f4f4f4;
+}
+
+/* Cabeçalho */
+.cabecalho {
+background-color: #222;
+color: white;
+padding: 20px;
+text-align: center;
+}
+
+.titulo {
+margin: 0;
+}
+
+/* Menu */
+.menu {
+margin-top: 10px;
+}
+
+.menu-link {
+color: white;
+margin: 0 10px;
+text-decoration: none;
+}
+
+.menu-link:hover {
+text-decoration: underline;
+}
+
+/* Conteúdo */
+.conteudo {
+padding: 20px;
+}
+
+.bloco {
+background: white;
+padding: 15px;
+margin-bottom: 15px;
+border-radius: 8px;
+}
+
+.subtitulo {
+margin-top: 0;
+}
+
+.texto {
+font-size: 16px;
+}
+
+.lista {
+padding-left: 20px;
+}
+
+/* Rodapé */
+.rodape {
+background: #222;
+color: white;
+text-align: center;
+padding: 10px;
+}
